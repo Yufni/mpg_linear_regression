@@ -6,7 +6,7 @@
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
-You can find my own variaton with consecutive ID added [here](https://gist.github.com/YufniCastro/dff968b38a5102606657de8760f67856).
+You can find my own variation with consecutive ID added [here](https://gist.github.com/YufniCastro/dff968b38a5102606657de8760f67856).
 
 The objective was to create a linear regression to predict the MPG(Miles Per Gallon) consumption.
 
